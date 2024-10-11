@@ -27,22 +27,22 @@ The **Inventory Control System** is a web-based application designed for managin
 ## Project output
 ## Some ScreenShots for this Project:
 ### Home page
-![Home page](https://drive.google.com/file/d/1_aIp-8wci3A7hd0LOID9GCkK0rJYjFgl/view?usp=drive_link) 
+![Home page](homepage.png) 
 
 ### Register page
-![Home page](https://drive.google.com/file/d/19ycJx69cZxzLg1QD-htl1Hw9tIcxYTNw/view?usp=drive_link)  
+![Home page](register page.png)  
 
 ### Login page
-![Home page](https://drive.google.com/file/d/1_r0I5CPk4vLjArTBQe0Abdo39UaKmJOi/view?usp=drive_link) 
+![Home page](login page.png) 
 
 ### Admin page
-![Home page](https://drive.google.com/file/d/13iKPn3ZSkQ08sjW6FQOLjzMJpnFi5kjf/view?usp=sharing)
+![Home page](admin page.png)
 
 ### Supplier page
-![Home page](https://drive.google.com/file/d/1m3Cvcd3H9eS1ooAJJnOzLkqJkv92ZpJZ/view?usp=drive_link)  
+![Home page](supplier page.png)  
 
 ### Product page
-![Home page](https://drive.google.com/file/d/14wINTrVZZOeMD2idQrCcKU4yDXMXfiV2/view?usp=sharing)
+![Home page](product page.png)
 
 
 
