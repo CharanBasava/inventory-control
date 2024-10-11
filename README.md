@@ -42,7 +42,7 @@ The **Inventory Control System** is a web-based application designed for managin
 ![Home page](supplier page.png)  
 
 ### Product page
-![Home page](product page.png)
+![Home page](product_page.png)
 
 
 
