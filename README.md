@@ -30,19 +30,19 @@ The **Inventory Control System** is a web-based application designed for managin
 ![Home page](homepage.png) 
 
 ### Register page
-![Home page](register page.png)  
+![Home page](registerpage.png)  
 
 ### Login page
-![Home page](login page.png) 
+![Home page](loginpage.png) 
 
 ### Admin page
-![Home page](admin page.png)
+![Home page](adminpage.png)
 
 ### Supplier page
-![Home page](supplier page.png)  
+![Home page](supplierpage.png)  
 
 ### Product page
-![Home page](product_page.png)
+![Home page](productpage.png)
 
 
 
